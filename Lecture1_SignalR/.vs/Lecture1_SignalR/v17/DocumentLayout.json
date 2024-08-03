@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Shuja\\Code Examples\\SignalR\\Lecture1_SignalR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B85AFAB7-DDE6-4C1F-826E-64C956EC2FCD}|Lecture1_SignalR.csproj|c:\\shuja\\code examples\\signalr\\lecture1_signalr\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B85AFAB7-DDE6-4C1F-826E-64C956EC2FCD}|Lecture1_SignalR.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85AFAB7-DDE6-4C1F-826E-64C956EC2FCD}|Lecture1_SignalR.csproj|c:\\shuja\\code examples\\signalr\\lecture1_signalr\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85AFAB7-DDE6-4C1F-826E-64C956EC2FCD}|Lecture1_SignalR.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85AFAB7-DDE6-4C1F-826E-64C956EC2FCD}|Lecture1_SignalR.csproj|c:\\shuja\\code examples\\signalr\\lecture1_signalr\\views\\home\\chat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B85AFAB7-DDE6-4C1F-826E-64C956EC2FCD}|Lecture1_SignalR.csproj|solutionrelative:views\\home\\chat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85AFAB7-DDE6-4C1F-826E-64C956EC2FCD}|Lecture1_SignalR.csproj|c:\\shuja\\code examples\\signalr\\lecture1_signalr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85AFAB7-DDE6-4C1F-826E-64C956EC2FCD}|Lecture1_SignalR.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85AFAB7-DDE6-4C1F-826E-64C956EC2FCD}|Lecture1_SignalR.csproj|c:\\shuja\\code examples\\signalr\\lecture1_signalr\\models\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85AFAB7-DDE6-4C1F-826E-64C956EC2FCD}|Lecture1_SignalR.csproj|solutionrelative:models\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85AFAB7-DDE6-4C1F-826E-64C956EC2FCD}|Lecture1_SignalR.csproj|c:\\shuja\\code examples\\signalr\\lecture1_signalr\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B85AFAB7-DDE6-4C1F-826E-64C956EC2FCD}|Lecture1_SignalR.csproj|solutionrelative:wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 498,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "chat.js",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\SignalR\\Lecture1_SignalR\\wwwroot\\js\\chat.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\chat.js",
+              "ToolTip": "C:\\Shuja\\Code Examples\\SignalR\\Lecture1_SignalR\\wwwroot\\js\\chat.js",
+              "RelativeToolTip": "wwwroot\\js\\chat.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-03T19:20:09.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\SignalR\\Lecture1_SignalR\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Shuja\\Code Examples\\SignalR\\Lecture1_SignalR\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAAC8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T19:18:32.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\SignalR\\Lecture1_SignalR\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\SignalR\\Lecture1_SignalR\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T19:16:47.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Chat.cshtml",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\SignalR\\Lecture1_SignalR\\Views\\Home\\Chat.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Chat.cshtml",
+              "ToolTip": "C:\\Shuja\\Code Examples\\SignalR\\Lecture1_SignalR\\Views\\Home\\Chat.cshtml",
+              "RelativeToolTip": "Views\\Home\\Chat.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwBgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T19:15:12.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\SignalR\\Lecture1_SignalR\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\SignalR\\Lecture1_SignalR\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T19:12:02.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\SignalR\\Lecture1_SignalR\\Models\\ChatHub.cs",
+              "RelativeDocumentMoniker": "Models\\ChatHub.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\SignalR\\Lecture1_SignalR\\Models\\ChatHub.cs",
+              "RelativeToolTip": "Models\\ChatHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T19:10:52.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 101,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
