@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Shuja\\Code Examples\\SignalR\\Lecture_2_SignalRUserSpecificChat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C113D08-F6F6-4EEF-8D08-43DB422DE1DB}|Lecture_2_SignalRUserSpecificChat.csproj|c:\\shuja\\code examples\\signalr\\lecture_2_signalruserspecificchat\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C113D08-F6F6-4EEF-8D08-43DB422DE1DB}|Lecture_2_SignalRUserSpecificChat.csproj|solutionrelative:hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C113D08-F6F6-4EEF-8D08-43DB422DE1DB}|Lecture_2_SignalRUserSpecificChat.csproj|c:\\shuja\\code examples\\signalr\\lecture_2_signalruserspecificchat\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1C113D08-F6F6-4EEF-8D08-43DB422DE1DB}|Lecture_2_SignalRUserSpecificChat.csproj|solutionrelative:wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C113D08-F6F6-4EEF-8D08-43DB422DE1DB}|Lecture_2_SignalRUserSpecificChat.csproj|c:\\shuja\\code examples\\signalr\\lecture_2_signalruserspecificchat\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C113D08-F6F6-4EEF-8D08-43DB422DE1DB}|Lecture_2_SignalRUserSpecificChat.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C113D08-F6F6-4EEF-8D08-43DB422DE1DB}|Lecture_2_SignalRUserSpecificChat.csproj|c:\\shuja\\code examples\\signalr\\lecture_2_signalruserspecificchat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C113D08-F6F6-4EEF-8D08-43DB422DE1DB}|Lecture_2_SignalRUserSpecificChat.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C113D08-F6F6-4EEF-8D08-43DB422DE1DB}|Lecture_2_SignalRUserSpecificChat.csproj|c:\\shuja\\code examples\\signalr\\lecture_2_signalruserspecificchat\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C113D08-F6F6-4EEF-8D08-43DB422DE1DB}|Lecture_2_SignalRUserSpecificChat.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 498,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\SignalR\\Lecture_2_SignalRUserSpecificChat\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Shuja\\Code Examples\\SignalR\\Lecture_2_SignalRUserSpecificChat\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T02:55:08.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "chat.js",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\SignalR\\Lecture_2_SignalRUserSpecificChat\\wwwroot\\js\\chat.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\chat.js",
+              "ToolTip": "C:\\Shuja\\Code Examples\\SignalR\\Lecture_2_SignalRUserSpecificChat\\wwwroot\\js\\chat.js",
+              "RelativeToolTip": "wwwroot\\js\\chat.js",
+              "ViewState": "AQIAABwAAAAAAAAAAAAcwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-04T02:42:34.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\SignalR\\Lecture_2_SignalRUserSpecificChat\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Shuja\\Code Examples\\SignalR\\Lecture_2_SignalRUserSpecificChat\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T02:40:42.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\SignalR\\Lecture_2_SignalRUserSpecificChat\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\SignalR\\Lecture_2_SignalRUserSpecificChat\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T02:39:53.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\SignalR\\Lecture_2_SignalRUserSpecificChat\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\SignalR\\Lecture_2_SignalRUserSpecificChat\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "Hubs\\ChatHub.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAxwBwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T02:38:22.536Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 101,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
